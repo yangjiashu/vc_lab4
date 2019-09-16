@@ -61,7 +61,7 @@ def test(model, test_loader):
 if __name__ == '__main__':
     batch_size = 64
     test_batch_size = 1000
-    epochs = 10A
+    epochs = 10
     lr = 0.1
     momentum = 0.5
     seed = 1
